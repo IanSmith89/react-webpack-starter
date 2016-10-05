@@ -6,6 +6,7 @@ import ReactDOM from 'react-dom';
 import { Router, browserHistory as history } from 'react-router';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './assets/styles/main.scss';
 import routes from './routes';
 
 import { useStrict } from 'mobx';
