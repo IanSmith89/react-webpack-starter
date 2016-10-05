@@ -1,8 +1,10 @@
-$dark-grey:                  #444;
+$almost-white:              #EEE;
+$dark-grey:                 #444;
 
 body {
     line-height: 1.6;
     font-size: 18px;
+    background-color: $almost-white;
     color: $dark-grey;
 }
 
